@@ -1,0 +1,14 @@
+[
+    {"id": 1, "image": "assets/images/bonds.jpeg"},
+    {"id": 2, "image": "assets/images/carew.jpeg"},
+    {"id": 3, "image": "assets/images/clemens.jpeg"},
+    {"id": 4, "image": "assets/images/clemente.jpeg"},
+    {"id": 5, "image": "assets/images/garvey.jpeg"},
+    {"id": 6, "image": "assets/images/gonzalez.jpeg"},
+    {"id": 7, "image": "assets/images/gooden.jpeg"},
+    {"id": 8, "image": "assets/images/jones.jpeg"},
+    {"id": 9, "image": "assets/images/mattingly.jpeg"},
+    {"id": 10, "image": "assets/images/puckett.jpeg"},
+    {"id": 11, "image": "assets/images/ramirez.jpeg"},
+    {"id": 12, "image": "assets/images/ripken.jpeg"}
+]
